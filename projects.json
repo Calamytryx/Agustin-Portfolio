@@ -1,20 +1,7 @@
 {
   "username": "Calamytryx",
-  "fetchedAt": "2026-08-05T12:29:17.023Z",
+  "fetchedAt": "2026-08-06T06:06:54.822Z",
   "repos": [
-    {
-      "name": "Agustin-Portfolio",
-      "full_name": "Calamytryx/Agustin-Portfolio",
-      "html_url": "https://github.com/Calamytryx/Agustin-Portfolio",
-      "homepage": null,
-      "description": null,
-      "language": "JavaScript",
-      "updated_at": "2026-08-05T12:26:14Z",
-      "stargazers_count": 0,
-      "topics": [],
-      "archived": false,
-      "fork": false
-    },
     {
       "name": "Calamytryx.github.io",
       "full_name": "Calamytryx/Calamytryx.github.io",
@@ -22,8 +9,21 @@
       "homepage": "https://calamytryx.github.io",
       "description": null,
       "language": "HTML",
-      "updated_at": "2026-08-05T08:33:18Z",
+      "updated_at": "2026-08-05T12:40:32Z",
       "stargazers_count": 1,
+      "topics": [],
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "Agustin-Portfolio",
+      "full_name": "Calamytryx/Agustin-Portfolio",
+      "html_url": "https://github.com/Calamytryx/Agustin-Portfolio",
+      "homepage": null,
+      "description": null,
+      "language": "JavaScript",
+      "updated_at": "2026-08-05T12:32:05Z",
+      "stargazers_count": 0,
       "topics": [],
       "archived": false,
       "fork": false
