@@ -1,7 +1,20 @@
 {
   "username": "Calamytryx",
-  "fetchedAt": "2026-08-06T06:06:54.822Z",
+  "fetchedAt": "2026-08-07T05:04:54.053Z",
   "repos": [
+    {
+      "name": "true-custom-clock",
+      "full_name": "Calamytryx/true-custom-clock",
+      "html_url": "https://github.com/Calamytryx/true-custom-clock",
+      "homepage": "",
+      "description": "A simple custom digital clock plasmoid for KDE Plasma 6, designed to support vertical panels, adaptive layouts, and flexible time/date formatting.  Inspired by minimal panel clocks but extended with full orientation-aware rendering and customizable layouts.",
+      "language": "QML",
+      "updated_at": "2026-08-06T22:55:26Z",
+      "stargazers_count": 3,
+      "topics": [],
+      "archived": false,
+      "fork": false
+    },
     {
       "name": "Calamytryx.github.io",
       "full_name": "Calamytryx/Calamytryx.github.io",
@@ -9,7 +22,7 @@
       "homepage": "https://calamytryx.github.io",
       "description": null,
       "language": "HTML",
-      "updated_at": "2026-08-05T12:40:32Z",
+      "updated_at": "2026-08-06T08:32:17Z",
       "stargazers_count": 1,
       "topics": [],
       "archived": false,
@@ -22,7 +35,7 @@
       "homepage": null,
       "description": null,
       "language": "JavaScript",
-      "updated_at": "2026-08-05T12:32:05Z",
+      "updated_at": "2026-08-06T06:07:08Z",
       "stargazers_count": 0,
       "topics": [],
       "archived": false,
@@ -63,19 +76,6 @@
       "language": "QML",
       "updated_at": "2026-07-02T06:19:48Z",
       "stargazers_count": 1,
-      "topics": [],
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "true-custom-clock",
-      "full_name": "Calamytryx/true-custom-clock",
-      "html_url": "https://github.com/Calamytryx/true-custom-clock",
-      "homepage": "",
-      "description": "A simple custom digital clock plasmoid for KDE Plasma 6, designed to support vertical panels, adaptive layouts, and flexible time/date formatting.  Inspired by minimal panel clocks but extended with full orientation-aware rendering and customizable layouts.",
-      "language": "QML",
-      "updated_at": "2026-05-13T09:58:27Z",
-      "stargazers_count": 2,
       "topics": [],
       "archived": false,
       "fork": false
