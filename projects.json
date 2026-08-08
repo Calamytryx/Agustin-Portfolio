@@ -1,20 +1,7 @@
 {
   "username": "Calamytryx",
-  "fetchedAt": "2026-08-07T05:04:54.053Z",
+  "fetchedAt": "2026-08-08T04:30:39.849Z",
   "repos": [
-    {
-      "name": "true-custom-clock",
-      "full_name": "Calamytryx/true-custom-clock",
-      "html_url": "https://github.com/Calamytryx/true-custom-clock",
-      "homepage": "",
-      "description": "A simple custom digital clock plasmoid for KDE Plasma 6, designed to support vertical panels, adaptive layouts, and flexible time/date formatting.  Inspired by minimal panel clocks but extended with full orientation-aware rendering and customizable layouts.",
-      "language": "QML",
-      "updated_at": "2026-08-06T22:55:26Z",
-      "stargazers_count": 3,
-      "topics": [],
-      "archived": false,
-      "fork": false
-    },
     {
       "name": "Calamytryx.github.io",
       "full_name": "Calamytryx/Calamytryx.github.io",
@@ -22,7 +9,7 @@
       "homepage": "https://calamytryx.github.io",
       "description": null,
       "language": "HTML",
-      "updated_at": "2026-08-06T08:32:17Z",
+      "updated_at": "2026-08-07T07:12:53Z",
       "stargazers_count": 1,
       "topics": [],
       "archived": false,
@@ -35,8 +22,21 @@
       "homepage": null,
       "description": null,
       "language": "JavaScript",
-      "updated_at": "2026-08-06T06:07:08Z",
+      "updated_at": "2026-08-07T05:05:49Z",
       "stargazers_count": 0,
+      "topics": [],
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "true-custom-clock",
+      "full_name": "Calamytryx/true-custom-clock",
+      "html_url": "https://github.com/Calamytryx/true-custom-clock",
+      "homepage": "",
+      "description": "A simple custom digital clock plasmoid for KDE Plasma 6, designed to support vertical panels, adaptive layouts, and flexible time/date formatting.  Inspired by minimal panel clocks but extended with full orientation-aware rendering and customizable layouts.",
+      "language": "QML",
+      "updated_at": "2026-08-06T22:55:26Z",
+      "stargazers_count": 3,
       "topics": [],
       "archived": false,
       "fork": false
