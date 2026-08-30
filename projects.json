@@ -1,7 +1,20 @@
 {
   "username": "Calamytryx",
-  "fetchedAt": "2026-08-29T10:10:08.545Z",
+  "fetchedAt": "2026-08-30T09:18:13.031Z",
   "repos": [
+    {
+      "name": "MineClock",
+      "full_name": "Calamytryx/MineClock",
+      "html_url": "https://github.com/Calamytryx/MineClock",
+      "homepage": null,
+      "description": "MC Clock is a lightweight KDE Plasma widget that maps the current time to one of 64 PNG frames (Minecraft clock style). Includes an optional digital time overlay and a small settings panel for padding and visibility.",
+      "language": "QML",
+      "updated_at": "2026-08-30T07:18:38Z",
+      "stargazers_count": 4,
+      "topics": [],
+      "archived": false,
+      "fork": false
+    },
     {
       "name": "Calamytryx.github.io",
       "full_name": "Calamytryx/Calamytryx.github.io",
@@ -9,7 +22,7 @@
       "homepage": "https://calamytryx.github.io",
       "description": null,
       "language": "HTML",
-      "updated_at": "2026-08-28T18:17:12Z",
+      "updated_at": "2026-08-29T12:16:43Z",
       "stargazers_count": 1,
       "topics": [],
       "archived": false,
@@ -22,7 +35,7 @@
       "homepage": null,
       "description": null,
       "language": "JavaScript",
-      "updated_at": "2026-08-28T15:29:25Z",
+      "updated_at": "2026-08-29T10:10:25Z",
       "stargazers_count": 0,
       "topics": [],
       "archived": false,
@@ -115,19 +128,6 @@
       "language": "QML",
       "updated_at": "2026-07-02T06:19:48Z",
       "stargazers_count": 1,
-      "topics": [],
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "MineClock",
-      "full_name": "Calamytryx/MineClock",
-      "html_url": "https://github.com/Calamytryx/MineClock",
-      "homepage": null,
-      "description": "MC Clock is a lightweight KDE Plasma widget that maps the current time to one of 64 PNG frames (Minecraft clock style). Includes an optional digital time overlay and a small settings panel for padding and visibility.",
-      "language": "QML",
-      "updated_at": "2026-05-08T17:23:49Z",
-      "stargazers_count": 3,
       "topics": [],
       "archived": false,
       "fork": false
