@@ -1,6 +1,6 @@
 {
   "username": "Calamytryx",
-  "fetchedAt": "2026-10-06T10:25:54.353Z",
+  "fetchedAt": "2026-10-07T10:21:10.100Z",
   "repos": [
     {
       "name": "Calamytryx.github.io",
@@ -9,8 +9,21 @@
       "homepage": "https://calamytryx.github.io",
       "description": null,
       "language": "HTML",
-      "updated_at": "2026-10-05T13:35:54Z",
+      "updated_at": "2026-10-06T12:44:46Z",
       "stargazers_count": 1,
+      "topics": [],
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "Automated-Thesis-Lifecycle-and-Assessment-Scheduler",
+      "full_name": "Calamytryx/Automated-Thesis-Lifecycle-and-Assessment-Scheduler",
+      "html_url": "https://github.com/Calamytryx/Automated-Thesis-Lifecycle-and-Assessment-Scheduler",
+      "homepage": null,
+      "description": "AI-Driven System for Efficient Scheduling and Performance Assessment of College Research Presentations in Lyceum of the Philippines University of Cavite Department of Computer Studies (LPU-C DCS)",
+      "language": "PHP",
+      "updated_at": "2026-10-06T11:16:15Z",
+      "stargazers_count": 2,
       "topics": [],
       "archived": false,
       "fork": false
@@ -22,7 +35,7 @@
       "homepage": null,
       "description": null,
       "language": "JavaScript",
-      "updated_at": "2026-10-05T10:33:54Z",
+      "updated_at": "2026-10-06T10:26:00Z",
       "stargazers_count": 0,
       "topics": [],
       "archived": false,
@@ -102,19 +115,6 @@
       "language": "Hack",
       "updated_at": "2026-08-08T09:32:25Z",
       "stargazers_count": 0,
-      "topics": [],
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "Automated-Thesis-Lifecycle-and-Assessment-Scheduler",
-      "full_name": "Calamytryx/Automated-Thesis-Lifecycle-and-Assessment-Scheduler",
-      "html_url": "https://github.com/Calamytryx/Automated-Thesis-Lifecycle-and-Assessment-Scheduler",
-      "homepage": null,
-      "description": "AI-Driven System for Efficient Scheduling and Performance Assessment of College Research Presentations in Lyceum of the Philippines University of Cavite Department of Computer Studies (LPU-C DCS)",
-      "language": "PHP",
-      "updated_at": "2026-07-17T01:49:33Z",
-      "stargazers_count": 3,
       "topics": [],
       "archived": false,
       "fork": false
