@@ -1,7 +1,20 @@
 {
   "username": "Calamytryx",
-  "fetchedAt": "2026-10-23T08:37:36.186Z",
+  "fetchedAt": "2026-10-24T08:12:37.953Z",
   "repos": [
+    {
+      "name": "MineLauncher",
+      "full_name": "Calamytryx/MineLauncher",
+      "html_url": "https://github.com/Calamytryx/MineLauncher",
+      "homepage": null,
+      "description": "Minecraft-style app launcher for KDE Plasma 6 — turn your desktop into a Creative Inventory grid with category tabs, favorites, and authentic MC-inspired UI. 🧱✨ Contributions welcome!",
+      "language": "QML",
+      "updated_at": "2026-10-23T11:00:53Z",
+      "stargazers_count": 28,
+      "topics": [],
+      "archived": false,
+      "fork": false
+    },
     {
       "name": "Calamytryx.github.io",
       "full_name": "Calamytryx/Calamytryx.github.io",
@@ -9,7 +22,7 @@
       "homepage": "https://calamytryx.github.io",
       "description": null,
       "language": "HTML",
-      "updated_at": "2026-10-22T11:09:01Z",
+      "updated_at": "2026-10-23T11:00:10Z",
       "stargazers_count": 1,
       "topics": [],
       "archived": false,
@@ -22,7 +35,7 @@
       "homepage": null,
       "description": null,
       "language": "JavaScript",
-      "updated_at": "2026-10-22T08:41:50Z",
+      "updated_at": "2026-10-23T08:37:41Z",
       "stargazers_count": 0,
       "topics": [],
       "archived": false,
@@ -76,19 +89,6 @@
       "language": null,
       "updated_at": "2026-08-13T04:43:23Z",
       "stargazers_count": 0,
-      "topics": [],
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "MineLauncher",
-      "full_name": "Calamytryx/MineLauncher",
-      "html_url": "https://github.com/Calamytryx/MineLauncher",
-      "homepage": null,
-      "description": "Minecraft-style app launcher for KDE Plasma 6 — turn your desktop into a Creative Inventory grid with category tabs, favorites, and authentic MC-inspired UI. 🧱✨ Contributions welcome!",
-      "language": "QML",
-      "updated_at": "2026-08-09T20:24:58Z",
-      "stargazers_count": 28,
       "topics": [],
       "archived": false,
       "fork": false
