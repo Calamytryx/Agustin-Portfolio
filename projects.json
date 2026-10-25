@@ -1,20 +1,7 @@
 {
   "username": "Calamytryx",
-  "fetchedAt": "2026-10-24T08:12:37.953Z",
+  "fetchedAt": "2026-10-25T08:30:13.232Z",
   "repos": [
-    {
-      "name": "MineLauncher",
-      "full_name": "Calamytryx/MineLauncher",
-      "html_url": "https://github.com/Calamytryx/MineLauncher",
-      "homepage": null,
-      "description": "Minecraft-style app launcher for KDE Plasma 6 — turn your desktop into a Creative Inventory grid with category tabs, favorites, and authentic MC-inspired UI. 🧱✨ Contributions welcome!",
-      "language": "QML",
-      "updated_at": "2026-10-23T11:00:53Z",
-      "stargazers_count": 28,
-      "topics": [],
-      "archived": false,
-      "fork": false
-    },
     {
       "name": "Calamytryx.github.io",
       "full_name": "Calamytryx/Calamytryx.github.io",
@@ -22,7 +9,7 @@
       "homepage": "https://calamytryx.github.io",
       "description": null,
       "language": "HTML",
-      "updated_at": "2026-10-23T11:00:10Z",
+      "updated_at": "2026-10-25T03:12:52Z",
       "stargazers_count": 1,
       "topics": [],
       "archived": false,
@@ -35,8 +22,21 @@
       "homepage": null,
       "description": null,
       "language": "JavaScript",
-      "updated_at": "2026-10-23T08:37:41Z",
+      "updated_at": "2026-10-24T08:12:43Z",
       "stargazers_count": 0,
+      "topics": [],
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "MineLauncher",
+      "full_name": "Calamytryx/MineLauncher",
+      "html_url": "https://github.com/Calamytryx/MineLauncher",
+      "homepage": null,
+      "description": "Minecraft-style app launcher for KDE Plasma 6 — turn your desktop into a Creative Inventory grid with category tabs, favorites, and authentic MC-inspired UI. 🧱✨ Contributions welcome!",
+      "language": "QML",
+      "updated_at": "2026-10-23T11:00:53Z",
+      "stargazers_count": 28,
       "topics": [],
       "archived": false,
       "fork": false
