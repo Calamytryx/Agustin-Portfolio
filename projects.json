@@ -1,6 +1,6 @@
 {
   "username": "Calamytryx",
-  "fetchedAt": "2026-11-03T10:58:00.587Z",
+  "fetchedAt": "2026-11-04T11:02:07.790Z",
   "repos": [
     {
       "name": "Calamytryx.github.io",
@@ -9,7 +9,7 @@
       "homepage": "https://calamytryx.github.io",
       "description": null,
       "language": "HTML",
-      "updated_at": "2026-11-02T14:45:10Z",
+      "updated_at": "2026-11-03T13:37:44Z",
       "stargazers_count": 1,
       "topics": [],
       "archived": false,
@@ -22,7 +22,7 @@
       "homepage": null,
       "description": null,
       "language": "JavaScript",
-      "updated_at": "2026-11-02T11:19:11Z",
+      "updated_at": "2026-11-03T10:58:07Z",
       "stargazers_count": 0,
       "topics": [],
       "archived": false,
@@ -115,19 +115,6 @@
       "language": "Hack",
       "updated_at": "2026-08-08T09:32:25Z",
       "stargazers_count": 0,
-      "topics": [],
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "musang",
-      "full_name": "Calamytryx/musang",
-      "html_url": "https://github.com/Calamytryx/musang",
-      "homepage": "",
-      "description": "Text-based application launcher for KDE Plasma, inspired by Mako by rama-io.",
-      "language": "QML",
-      "updated_at": "2026-07-02T06:19:48Z",
-      "stargazers_count": 1,
       "topics": [],
       "archived": false,
       "fork": false
